@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AVS Sampler</title>
+        <item>
+            <title>0.2.2</title>
+            <pubDate>Sun, 20 Sep 2026 09:51:56 +0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/kokafang/avs-sampler-updates/releases/download/v0.2.2/AVS-Sampler.zip" length="100872190" type="application/octet-stream" sparkle:edSignature="nFZgQZF+BZUKKJPhl7gY74ytxnO4UoD1Ltc6RX1qyBXLxUYcWfBOPAT1XgOAw2byhPI0G4B4vu56jGeyb78KCQ=="/>
+        </item>
+    </channel>
+</rss>
