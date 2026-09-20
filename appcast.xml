@@ -3,13 +3,13 @@
     <channel>
         <title>AVS Sampler</title>
         <item>
-            <title>0.2.2</title>
-            <pubDate>Sun, 20 Sep 2026 09:51:56 +0800</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <title>0.2.3</title>
+            <pubDate>Sun, 20 Sep 2026 10:20:10 +0800</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kokafang/avs-sampler-updates/releases/download/v0.2.2/AVS-Sampler.zip" length="100872190" type="application/octet-stream" sparkle:edSignature="nFZgQZF+BZUKKJPhl7gY74ytxnO4UoD1Ltc6RX1qyBXLxUYcWfBOPAT1XgOAw2byhPI0G4B4vu56jGeyb78KCQ=="/>
+            <enclosure url="https://github.com/kokafang/avs-sampler-updates/releases/download/v0.2.3/AVS-Sampler.zip" length="100872423" type="application/octet-stream" sparkle:edSignature="PHDppC2YiYawVZGlnhz4gFwH/55wfpCmWgMXz3m8gkzxXknvn9LPE/G9XY8AEBk7EKrgYHZkc8LNHR43vK7gAA=="/>
         </item>
     </channel>
 </rss>
